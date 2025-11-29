@@ -1,7 +1,3 @@
-Here is a **simple, clean, professional README explanation** — no emojis, no extra styling:
-
----
-
 # Python Screen Recorder
 
 This project is a basic Python screen recorder that captures the entire desktop screen and saves it as an MP4 video. It continuously takes screenshots of the screen, converts them into video frames, and writes them into a video file.
